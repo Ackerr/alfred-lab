@@ -92,9 +92,9 @@
 				<key>scriptfile</key>
 				<string></string>
 				<key>subtext</key>
-				<string></string>
+				<string>Example: lab alfred</string>
 				<key>title</key>
-				<string>Search for GitLab projects</string>
+				<string>Search for gitlab projects</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -136,7 +136,7 @@
 				<key>subtext</key>
 				<string>Example: laburl https://gitlab.com</string>
 				<key>text</key>
-				<string>Set your GitLab Base URL</string>
+				<string>Set your gitlab base url</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
@@ -246,7 +246,7 @@ A new option now exists for Script Filters, "Alfred filters results". This allow
 		<string>GITLAB_BASE_URL</string>
 	</array>
 	<key>version</key>
-	<string>1.0</string>
+	<string>0.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/ackerr</string>
 </dict>
